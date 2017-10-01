@@ -7,6 +7,7 @@
 ``` bash
 # Requisitos
 Node = 6.10.0
+
 # Após clonar o repositório CD até o diretório e rode para baixar as dependências
 npm install
 
